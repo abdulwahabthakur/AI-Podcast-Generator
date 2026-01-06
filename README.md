@@ -13,6 +13,13 @@ A full-stack web application that generates AI-powered podcast episodes with rea
 
 Pictures and Video representatio:
 ![Screenshot 2026-01-05 220438](https://github.com/user-attachments/assets/dfac57f2-a65b-4269-bf0d-a9b877f1862f)
+![Screenshot 2026-01-05 220413](https://github.com/user-attachments/assets/c0462118-4f37-4a72-a822-e45daf8bc808)
+![Screenshot 2026-01-03 003751](https://github.com/user-attachments/assets/51578e41-f9dd-4126-84e9-71bbe95acf5c)
+![Screenshot 2026-01-03 003858](https://github.com/user-attachments/assets/de093af5-d88f-4109-901d-852ce350e1d3)
+![Screenshot 2026-01-05 214538](https://github.com/user-attachments/assets/b15f8aa0-ddc3-47e0-8018-688b0a9fc07f)
+![Screenshot 2026-01-05 215840](https://github.com/user-attachments/assets/a1863610-4173-4d7d-a236-589568d591cd)
+![Screenshot 2026-01-05 214726](https://github.com/user-attachments/assets/77a7994a-892f-4ee5-aafe-1ff6bf264f51)
+video link - https://youtu.be/EBsHAQ_24DM
 
 
 
