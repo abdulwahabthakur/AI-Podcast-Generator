@@ -11,6 +11,11 @@ A full-stack web application that generates AI-powered podcast episodes with rea
 - 🔐 **User Authentication** - Powered by Supabase Auth
 - 💾 **Script History** - Save and revisit your generated podcasts
 
+Pictures and Video representatio:
+![Screenshot 2026-01-05 220438](https://github.com/user-attachments/assets/dfac57f2-a65b-4269-bf0d-a9b877f1862f)
+
+
+
 ## Tech Stack
 
 | Layer | Technology |
