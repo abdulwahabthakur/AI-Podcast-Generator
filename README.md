@@ -130,6 +130,3 @@ npm start
 | GET | `/api/scripts/:id` | Get specific script |
 | DELETE | `/api/scripts/:id` | Delete a script |
 
-## License
-
-ISC
